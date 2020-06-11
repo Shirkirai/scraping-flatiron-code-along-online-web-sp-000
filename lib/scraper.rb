@@ -45,7 +45,7 @@ class Scraper
   end
 
 end
-Scraper.new.make_courses
+Scraper.new.print_courses
 #Scraper.new.get_page
 
   #def print_courses
